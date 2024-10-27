@@ -1,0 +1,51 @@
+
+.theFour{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+}
+
+.titulo-bloque{
+    color: black;
+    font-size: 15px;
+    margin-left: 15px; 
+}
+
+.simbolos1{
+    display: flex;
+    align-items: center;
+    padding: 20px; 
+}
+
+.simbolosPequenos{
+    display: flex;
+    align-items: center;
+    padding: 20px; 
+    text-align: center;
+}
+.simbolo {
+    flex: 1; 
+    padding: 20px; 
+    border: 5px solid #000; 
+    text-align: center; 
+}
+#Corazon{
+    background-color: white;
+    color: #003366;
+}
+
+#Cruz{
+    background-color:  #003366;
+    color: white;
+}
+
+#Pregunta{
+    background-color: white;
+    color: #003366;
+}
+
+#Division{
+    background-color: #003366;
+    color: white;
+}
+
